@@ -17,7 +17,7 @@ with col1:
     
 def calulation(reslut:float,operation:str,input1:float,input2:float):
     
-      return f"{operation} on {input1} and {input2} are {result}"
+      return f"{operation} on {input1} and {input2} is {result}"
 
 
 if "cal"  not in st.session_state:
