@@ -13,7 +13,7 @@ col1,_,col2=st.columns([5,5,19],gap="small")
     #st.image("images/calculator.jpeg",width=200)
     
 with col1:
-    st.image("images/calci.png",width=200)
+    st.image("images/calculator.png",width=200)
     
 def calulation(reslut:float,operation:str,input1:float,input2:float):
     
