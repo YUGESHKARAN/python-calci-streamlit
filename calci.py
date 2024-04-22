@@ -5,7 +5,7 @@ st.title("Hello Users 🖐️")
 
 with st.container():
     st.markdown("""
-                <marquee style="border-top:2px solid black; border-bottom:2px solid black; color:#1B1464;" direction='left' bgcolor='red' >🤗WELCOME TO STREAMLIT CALCULATOR 🤗</marquee>""",
+                <marquee style="border-top:2px solid black; border-bottom:2px solid black; color:#1B1464;" direction='left' bgcolor='#12CBC4' >🤗WELCOME TO STREAMLIT CALCULATOR 🤗</marquee>""",
     unsafe_allow_html=True)
 col1,_,col2=st.columns([5,5,19],gap="small")
 
